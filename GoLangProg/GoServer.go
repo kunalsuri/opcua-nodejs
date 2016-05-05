@@ -3,6 +3,8 @@ package main
 import (
 	"io"
 	"net/http"
+	"os"
+	"fmt"
 )
 
 func hello(w http.ResponseWriter, r *http.Request) {
@@ -10,6 +12,8 @@ func hello(w http.ResponseWriter, r *http.Request) {
 }
 
 func main() {
+    var port = os.Getenv("PORT")
+	fmt.Println(port)
 	http.HandleFunc("/", hello)
-	http.ListenAndServe(":8069", nil)
+	http.ListenAndServe(port, nil)
 }
