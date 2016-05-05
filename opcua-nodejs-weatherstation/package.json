@@ -1,5 +1,5 @@
 {
-  "name": "myweatherstation",
+  "name": "opcua-nodejs-myweatherstation",
   "version": "1.0.0",
   "description": "OPC-UA server using Node.js",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/kunalsuri/opcua-nodejs.git"
+    "url": "git+ssh://git@github.com/kunalsuri/new-tech-dev.git"
   },
   "keywords": [
     "OPC-UA",
@@ -19,9 +19,9 @@
   "author": "Kunal Suri",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kunalsuri/opcua-nodejs/issues"
+    "url": "https://github.com/kunalsuri/new-tech-dev/issues"
   },
-  "homepage": "https://github.com/kunalsuri/opcua-nodejs#readme",
+  "homepage": "https://github.com/kunalsuri/new-tech-dev#readme",
   "dependencies": {
     "node-opcua": "0.0.54",
     "request": "^2.72.0"
