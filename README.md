@@ -1,8 +1,13 @@
 # OPC - UA & Node.js
 Test code for OPC-UA servers on Node js using Cloud 9
 
+# Liks & Info
+1. About OPC-UA - https://opcfoundation.org/about/what-is-opc/
+2. OPC-UA implementation on NODE.JS - http://node-opcua.github.io
+3. Node.js World Weather Demo - http://node-opcua.github.io/tutorial/2015/07/05/weather-station.html
 
-#To start working on the OPC-UA Node.js  
+
+#To start working on this example of OPC-UA Node.js
 Firtsly, clone the workspace from this github repo and then do the following:
 
 1. Initiate NPM: 
