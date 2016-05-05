@@ -20,7 +20,7 @@ npm install node-opcua --save
 
 3. Run the program worldweather_demo:js
 
-4. First step copleted :)
+4. Congratulations! Intial steps completed :D
 
 
 
