@@ -8,7 +8,7 @@ var fs = require("fs");
 var key = fs.readFileSync("worldweatheronline.key");
 
 
-var city = "London";
+var city = "Ankara";
 getCityWeather(city,function(err,data) {
     if (!err) {
     console.log("data = data",data);
