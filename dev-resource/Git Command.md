@@ -1,6 +1,6 @@
 #Git Commands & Resources
 
-##Online GIT Commands 
+**Online GIT Commands**
 ```
 https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
 ```
@@ -10,9 +10,9 @@ https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.ht
 https://help.github.com/articles/basic-writing-and-formatting-syntax/
 ```
 
-###How to remove a Git Folder
+**How to remove a Git Folder**
 
-####You can just delete the folder locally and then push
+**_You can just delete the folder locally and then push_**
 ```
 rm -rf folder
 git add .
