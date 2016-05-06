@@ -1,0 +1,30 @@
+{
+  "name": "opcua-nodejs-myweatherstation",
+  "version": "1.0.0",
+  "description": "OPC-UA server using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kunalsuri/new-tech-dev.git"
+  },
+  "keywords": [
+    "OPC-UA",
+    "server",
+    "nodejs",
+    "Weather"
+  ],
+  "author": "Kunal Suri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kunalsuri/new-tech-dev/issues"
+  },
+  "homepage": "https://github.com/kunalsuri/new-tech-dev#readme",
+  "dependencies": {
+    "async": "^2.0.0-rc.4",
+    "node-opcua": "0.0.54",
+    "request": "^2.72.0"
+  }
+}
