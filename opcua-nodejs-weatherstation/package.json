@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/kunalsuri/new-tech-dev#readme",
   "dependencies": {
+    "async": "^2.0.0-rc.4",
     "node-opcua": "0.0.54",
     "request": "^2.72.0"
   }
